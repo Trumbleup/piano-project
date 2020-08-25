@@ -1,0 +1,26 @@
+.blackKey {
+	width: 40px;
+	height: 100px;
+	background-color: black;
+	position: relative;
+}
+
+.Db {
+	left: 8px;
+}
+
+.Eb {
+	left: 65px;
+}
+
+.Gb {
+	left: 225px;
+}
+
+.Ab {
+	left: 285px;
+}
+
+.Bb {
+	left: 345px;
+}
